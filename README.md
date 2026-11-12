@@ -1,4 +1,5 @@
 ## HTIC PCB Ruler
+I spent ten minutes thinking about a good pun to put here, but none of them really measured up.
 
 <img width="1902" height="598" alt="image" src="https://github.com/user-attachments/assets/483d5384-314c-490f-bcd5-12721bdb7c5d" />
 
